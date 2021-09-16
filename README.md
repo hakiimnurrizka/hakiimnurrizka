@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakiimnurrizka, github(2021)
 - 👀 I’m interested in statistics and machine learning
-- 🌱 I’m currently learning spatial statistics
+- 🌱 I’m currently learning multivariate and spatial statistics
 - 💞️ I’m looking to collaborate on github(?)
 - 📫 How to reach me ...
 
